@@ -1,0 +1,1 @@
+This project automatically publishes to GitHub when changes are made to the repo branch 'main'.
