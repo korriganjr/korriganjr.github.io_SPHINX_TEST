@@ -20,6 +20,8 @@ Testing the git + sphinx stack
 
 Refer to :ref:`Paragraph 1 <paragraph_1_lorem_ipsum_2>` of Lorem Ipsum 2 to learn how you can use the git + Sphinx stack in different scenarios. 
 
+In :ref:`Paragraph 7 <paragraph_7_lorem_ipsum_2>` of Lorem Ipsum 2 you will find a list of features you can use to create templates for your Sphinx documents. 
+
 Indices and tables
 ==================
 
