@@ -9,7 +9,6 @@
 project = 'git + Sphinx + GitHub'
 copyright = '2022, VladimirK'
 author = 'VladimirK'
-release = '0.1'
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration

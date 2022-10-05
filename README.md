@@ -1,1 +1,1 @@
-This project automatically publishes to GitHub Pages when changes are made to the repo branch 'main'.
+This project builds documentation with Sphinx, uses git for versioning and automatically publishes to GitHub Pages when changes are made to the repo branch 'main'.
