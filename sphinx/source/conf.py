@@ -6,7 +6,7 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'git + sphinx'
+project = 'git + Sphinx + GitHub'
 copyright = '2022, VladimirK'
 author = 'VladimirK'
 release = '0.1'
